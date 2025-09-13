@@ -1,9 +1,8 @@
-import './App.css'
 import { QueryClient, QueryClientProvider, useQuery } from "@tanstack/react-query"
 import { Eth } from './Eth';
 
 // Create a client
-const queryClient = new QueryClient();
+// const queryClient = new QueryClient();
 
 // function App() {
 
