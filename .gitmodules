@@ -1,3 +1,6 @@
 [submodule "weekwise/2.1 public private/public/frontend"]
 	path = weekwise/2.1 public private/public/frontend
 	url = https://github.com/Er-luffy-D/web_wallet.git
+[submodule "solidity/cyfrin/lottery"]
+	path = solidity/cyfrin/lottery
+	url = https://github.com/Er-luffy-D/raffleContract.git
